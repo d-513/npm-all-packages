@@ -1,0 +1,22 @@
+{
+  "name": "npm-all-packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/esm.js",
+  "scripts": {
+    "lint": "eslint ./src/",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "esm": "^3.2.25",
+    "fs-extra": "^9.0.0",
+    "ora": "^4.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
