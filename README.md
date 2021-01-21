@@ -1,3 +1,4 @@
+LMAO THIS THING HAS TONS OF SECURITY ALERTS 
 # npm-all-packages
 
 Gets a big list of packages on npm using the registry api and a list of common programming keywords
